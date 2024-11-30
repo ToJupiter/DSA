@@ -7,7 +7,16 @@ int n, m;
 // malloc mang arr
 // malloc mang hold
 
+int intLog2(int x) {
+    int result = 0;
+    while (x >>= 1) {
+        result++;
+    }
+    return result;
+}
+
 int **allocate2Darray(int rows, int cols){
+    rows = intLog2(rows) + 1;
     int **array = (int **) malloc(rows * sizeof(int*));
     for(int i = 0; i < rows; i++){
         array[i] = (int*) malloc(cols * sizeof(int));
@@ -16,19 +25,14 @@ int **allocate2Darray(int rows, int cols){
 }
 
 void free2DArray(int** array, int rows) {
+    rows = intLog2(rows) + 1;
     for (int i = 0; i < rows; i++) {
         free(array[i]);
     }
     free(array);
 }
 
-int intLog2(int x) {
-    int result = 0;
-    while (x >>= 1) {
-        result++;
-    }
-    return result;
-}
+
 
 int min(int a, int b) {
     return (a < b) ? a : b;
