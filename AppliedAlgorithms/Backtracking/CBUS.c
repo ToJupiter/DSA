@@ -72,6 +72,7 @@ int main(){
         else continue;
     }
     printf("\n");
+    free(route);
     return 0;
 
 
