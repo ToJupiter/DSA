@@ -1,0 +1,1 @@
+{"name":"Local: TSP_Count","url":"/home/DSA/BasicCProgramming/Backtracking/TSP_Count.c","tests":[{"id":1733042432591,"input":"4 10\n0 1 2 6\n1 0 5 4\n2 5 0 3\n6 4 3 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/BasicCProgramming/Backtracking/TSP_Count.c","group":"local","local":true}
