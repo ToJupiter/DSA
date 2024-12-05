@@ -22,8 +22,10 @@ void generator(int step, int n, char binary[]){
     binary[step] = '0';
     generator(step + 1, n, binary);
 
-    binary[step] = '1';
-    generator(step + 1, n, binary);
+    if (step == 0 || binary[step-1] == '0'){
+        binary[step] = '1';
+        generator(step + 1, n, binary);
+    }
     
 }
 
