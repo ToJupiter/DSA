@@ -1,0 +1,1 @@
+{"name":"Local: Longest_Path","url":"/home/DSA/AtCoder/Longest_Path.cpp","tests":[{"id":1733479104743,"input":"4 5\n1 2\n1 3\n3 2\n2 4\n3 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/AtCoder/Longest_Path.cpp","group":"local","local":true}
