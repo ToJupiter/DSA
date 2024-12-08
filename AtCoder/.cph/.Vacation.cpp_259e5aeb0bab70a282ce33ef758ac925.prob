@@ -1,0 +1,1 @@
+{"name":"Local: Vacation","url":"/home/DSA/AtCoder/Vacation.cpp","tests":[{"id":1733450732790,"input":"3\n10 40 70\n20 50 80\n30 60 90\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/AtCoder/Vacation.cpp","group":"local","local":true}
