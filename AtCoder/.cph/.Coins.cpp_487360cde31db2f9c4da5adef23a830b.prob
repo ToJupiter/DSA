@@ -1,0 +1,1 @@
+{"name":"Local: Coins","url":"/home/DSA/AtCoder/Coins.cpp","tests":[{"id":1733669040249,"input":"5\n0.42 0.01 0.42 0.99 0.42\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/AtCoder/Coins.cpp","group":"local","local":true}
