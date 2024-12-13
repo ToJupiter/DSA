@@ -1,0 +1,1 @@
+{"name":"Local: Inversion_n_squared","url":"/home/DSA/AppliedAlgorithms/DivideAndConquer/Inversion_n_squared.cpp","tests":[{"id":1734102155366,"input":"6\n3 2 4 5 6 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/AppliedAlgorithms/DivideAndConquer/Inversion_n_squared.cpp","group":"local","local":true}
