@@ -1,0 +1,1 @@
+{"name":"Local: Warehouse","url":"/home/DSA/AppliedAlgorithms/DP/Warehouse.cpp","tests":[{"id":1734012359780,"input":"6 6 2\n6 8 5 10 11 6\n1 2 2 3 3 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/AppliedAlgorithms/DP/Warehouse.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CVRP","url":"/home/DSA/AppliedAlgorithms/Backtracking/CVRP.c","tests":[{"id":1734147757681,"input":"4 2 15\n7 7 11 2\n0 12 12 11 14\n14 0 11 14 14\n14 10 0 11 12\n10 14 12 0 13\n10 13 14 11 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/DSA/AppliedAlgorithms/Backtracking/CVRP.c","group":"local","local":true}
