@@ -37,5 +37,17 @@ Code and explaination will be put here.
 
 1. Problem 1: 
 | 1702D | Not a Cheap String | `set`, greedy | 1000 |
+[Codeforces Link](https://codeforces.com/problemset/problem/1702/D)
+[Solve Problem](1702D.md)
 
-[Problem 1](1702D.md)
+2. Problem 2:
+[Codeforces Link](https://codeforces.com/problemset/problem/1931/D)
+[Solve Problem](1931D.md)
+
+3. Problem 3:
+[Codeforces Link](https://codeforces.com/problemset/problem/1800/D)
+[Solve Problem](1800D.md)
+
+4. Problem 4:
+[Codeforces Link](https://codeforces.com/problemset/problem/1185/C1)
+[Solve Problem](1185C1.md)
