@@ -36,18 +36,21 @@ Code and explaination will be put here.
 | 977C | Less or Equal | `vector`, sorting + bounds | 1200 |
 
 1. Problem 1: 
-| 1702D | Not a Cheap String | `set`, greedy | 1000 |
-[Codeforces Link](https://codeforces.com/problemset/problem/1702/D)
-[Solve Problem](1702D.md)
+| 1702D | Not a Cheap String | `set`, greedy | 1000 <br>
+[Codeforces Link](https://codeforces.com/problemset/problem/1702/D) <br>
+[Solve Problem](1702D.md) <br>
 
 2. Problem 2:
-[Codeforces Link](https://codeforces.com/problemset/problem/1931/D)
-[Solve Problem](1931D.md)
+| 1931D | Divisible Pairs | `map`, modular arithmetic | 1400 <br>
+[Codeforces Link](https://codeforces.com/problemset/problem/1931/D) <br>
+[Solve Problem](1931D.md) <br>
 
 3. Problem 3:
-[Codeforces Link](https://codeforces.com/problemset/problem/1800/D)
-[Solve Problem](1800D.md)
+| 1800D | Remove Two Letters | `set`, string hashing | 1300 <br>
+[Codeforces Link](https://codeforces.com/problemset/problem/1800/D) <br>
+[Solve Problem](1800D.md) <br>
 
 4. Problem 4:
-[Codeforces Link](https://codeforces.com/problemset/problem/1185/C1)
-[Solve Problem](1185C1.md)
+| 1185C1 | Exam in BerSU (easy) | `vector`, sorting | 1200 <br>
+[Codeforces Link](https://codeforces.com/problemset/problem/1185/C1) <br>
+[Solve Problem](1185C1.md) <br>
