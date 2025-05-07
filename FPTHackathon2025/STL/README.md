@@ -37,3 +37,4 @@ Code and explaination will be put here.
 
 1. Problem 1: 
 | 1702D | Not a Cheap String | `set`, greedy | 1000 |
+[Problem 1](1702D.md)
