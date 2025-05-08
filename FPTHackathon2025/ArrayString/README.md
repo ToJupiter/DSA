@@ -98,5 +98,6 @@
 |-----------|-----------------------------|--------------------------|------------|
 | 1399C | Boats Competition | Two Pointers | 1200 |
 | 1624D | Palindromes Coloring | Greedy + Frequency Analysis | 1400 |
+| 1490E | Accidental Victory | Prefix Sums + Greedy | 1500 |
 
 
