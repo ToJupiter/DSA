@@ -81,4 +81,12 @@
 | 466C | Number of Ways | Prefix Sums + Counting | 1700 |
 | 1760E | Binary Inversions | Prefix & Suffix Sums | 1300 |
 
+1. Problem 1:
+| 1409D | Decrease the Sum of Digits | Greedy | 1500 <br>
+[Problem Link](https://codeforces.com/problemset/problem/1409/D) <br>
+[Solve](1409D.md) <br>
+
+2. Problem 2: <br>
+[Problem Link](https://codeforces.com/problemset/problem/1796/D) <br>
+[Solve](1796D.md) <br>
 
