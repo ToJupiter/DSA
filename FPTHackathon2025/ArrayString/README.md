@@ -66,4 +66,19 @@
 2. **Difficulty Distribution**:  
    - **1000–1300**: Foundational techniques (frequency counting, basic greedy).  
    - **1400–1700**: Advanced patterns (monotonic stack, inversion count).  
-   - **1700–2000**: Complex DP and math (e.g., 547B, 126B) .  
+   - **1700–2000**: Complex DP and math (e.g., 547B, 126B) .
+   - 
+
+### **08/05/2025 Problemset**:
+### 🧠 Summary Table
+
+| Problem ID | Title | Technique | Difficulty |
+|-----------|-----------------------------|--------------------------|------------|
+| 1945D | Seraphim the Owl | Greedy + Priority Queue | 1600 |
+| 1409D | Decrease the Sum of Digits | Greedy (Digit Manipulation) | 1500 |
+| 1771B | Hossam and Friends | Two Pointers + Intervals | 1400 |
+| 1538C | Number of Pairs | Two Pointers | 1300 |
+| 466C | Number of Ways | Prefix Sums + Counting | 1700 |
+| 1760E | Binary Inversions | Prefix & Suffix Sums | 1300 |
+
+
