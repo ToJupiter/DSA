@@ -90,3 +90,13 @@
 [Problem Link](https://codeforces.com/problemset/problem/1796/D) <br>
 [Solve](1796D.md) <br>
 
+
+### **09/05/2025 Problemset**:
+### 🧠 Summary Table
+
+| Problem ID | Title | Technique | Difficulty |
+|-----------|-----------------------------|--------------------------|------------|
+| 1399C | Boats Competition | Two Pointers | 1200 |
+| 1624D | Palindromes Coloring | Greedy + Frequency Analysis | 1400 |
+
+
