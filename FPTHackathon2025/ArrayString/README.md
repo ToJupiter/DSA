@@ -101,3 +101,12 @@
 | 1490E | Accidental Victory | Prefix Sums + Greedy | 1500 |
 
 
+### **10/05/2025 Problemset**:
+### 🧠 Summary Table
+
+| Problem ID | Title | Technique | Difficulty |
+|-----------|-----------------------------|--------------------------|------------|
+| 1772D | Absolute Sorting | Sorting + Binary Search | 1500 |
+| 600B | Queries about Less/Equal | Binary Search | 1300 |
+| 1850E | Cardboard for Pictures | Binary Search | 1100 |
+
