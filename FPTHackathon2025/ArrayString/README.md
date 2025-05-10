@@ -100,6 +100,20 @@
 | 1624D | Palindromes Coloring | Greedy + Frequency Analysis | 1400 |
 | 1490E | Accidental Victory | Prefix Sums + Greedy | 1500 |
 
+1. Problem 1:
+| 1399C | Boats Competition | Two Pointers | 1200 | <br>
+[Problem Link](https://codeforces.com/problemset/problem/1399/C) <br>
+[Solve](1399D.md) <br>
+[Source](1399D.cpp) <br>
+
+
+1. Problem 2:
+| 1624D | Palindromes Coloring | Greedy + Frequency Analysis | 1400 | <br>
+[Problem Link](https://codeforces.com/problemset/problem/1624/D) <br>
+[Solve](1624D.md) <br>
+[Source](1624D.cpp) <br>
+
+
 
 ### **10/05/2025 Problemset**:
 ### 🧠 Summary Table
