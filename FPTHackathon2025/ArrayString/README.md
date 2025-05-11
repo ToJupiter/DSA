@@ -54,6 +54,7 @@
 | 1141A | Game 23 | Math (Factor Counting) | 1000 |
 | 1201B | Zero Array | Greedy (Sum Parity) | 1500 |
 
+
 ---
 
 ### **Key Observations**  
@@ -124,3 +125,12 @@
 | 600B | Queries about Less/Equal | Binary Search | 1300 |
 | 1850E | Cardboard for Pictures | Binary Search | 1100 |
 
+
+### **11/05/2025 Problemset**:
+### 🧠 Summary Table
+
+| Problem ID | Title | Technique | Difficulty |
+|-----------|-----------------------------|--------------------------|------------|
+| 913D       | Too Easy Problems             | Binary Search    | 1600       |
+| 1512C      | A-B Palindrome               | String Algorithms| 1200       |
+| 1187B      | Letters Shop                 | String Algorithms| 1300       |
